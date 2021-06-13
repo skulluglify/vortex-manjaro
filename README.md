@@ -1,5 +1,7 @@
 # plymouth modded by skulluglify@outlook.com
 
+<img src="screenshot.jpg" width="256" height="256" />
+
 <pre>
 {
     source_main: "vortex-ubuntu-plymouth-theme",
